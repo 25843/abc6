@@ -1,0 +1,19 @@
+{
+  "crmtypes": [
+    {
+      "ID": "09F13E4F-1EC0-49E5-AAE5-4D11C9176C2D",
+      "Description": "CRM Type 1",
+      "DateCreated": "2019-09-19 21:57:17.243"
+    },
+    {
+      "ID": "BBD0D57F-3A5B-48A7-B965-74BAEEBFDB0D",
+      "Description": "CRM Type 2",
+      "DateCreated": "2019-09-16 21:57:17.243"
+    },
+    {
+      "ID": "F1D5AA5E-AC06-455A-BEE4-EC0A53BCCD9E",
+      "Description": "CRM Type 3",
+      "DateCreated": "2019-09-20 21:57:17.243"
+    }
+  ]
+}
